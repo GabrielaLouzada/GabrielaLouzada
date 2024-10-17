@@ -1,4 +1,4 @@
-## Olá eu so a Gabriela👋
+## Olá eu sou a Gabriela 👋
 
 <div>
   <a href = "mailto:gabrielaportolouzada@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
